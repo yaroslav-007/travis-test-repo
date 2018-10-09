@@ -2,4 +2,4 @@ language: generic
 dist: xenial
 sudo: required
 script:
-- cat missing_file
+- cat ./LICENSE
